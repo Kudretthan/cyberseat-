@@ -39,7 +39,7 @@ This is a **hackathon MVP**. It currently runs as a local frontend demo unless d
 ![Booking summary](docs/screenshots/booking-summary.png)
 ![Reservations](docs/screenshots/reservations.png)
 
-*Note: Place screenshots in `docs/screenshots/` and update the paths if needed.*
+
 
 ---
 

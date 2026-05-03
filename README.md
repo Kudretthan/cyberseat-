@@ -36,13 +36,11 @@ This is a **hackathon MVP**. It currently runs as a local frontend demo unless d
 
 ### Screenshots
 
-<img src="docs/screenshots/home.png" width="800" alt="CyberSeat home">
-<br><br>
-<img src="docs/screenshots/booking-summary.png" width="400" alt="Booking summary">
+<img src="docs/screenshots/home.png" width="800" alt="CyberSeat Home">
 <br><br>
 <img src="docs/screenshots/reservations.png" width="800" alt="Active Reservations">
 <br><br>
-<img src="docs/screenshots/completed-reservations.png" width="800" alt="Completed Reservations">
+<img src="docs/screenshots/completed-reservations.png" width="800" alt="Completed Sessions">
 
 
 
